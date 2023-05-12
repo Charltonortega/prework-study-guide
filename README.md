@@ -4,11 +4,7 @@ A study guide for course pre-work.
 # <Prework-Study-Guide>
 
 ## Description
-
-My motivation for creating this guide was my drive to create a guide
-
-I built this guide to create an all-inclusive showcase of my new-found skill, knowledge and understanding of the the bootcamp.
-
+I built this guide to create an all-inclusive showcase of my new-found skills, knowledge and understanding of the the bootcamp.
 This problem solves accessbility into resources within the pre-course work.
 
 ## Installation
