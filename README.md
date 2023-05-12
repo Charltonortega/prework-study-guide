@@ -5,7 +5,7 @@ A study guide for course pre-work.
 
 ## Description
 
-I built this guide to create an all-inclusive showcase of my new-found skills, knowledge and understanding of the the bootcamp.
+I built this guide to create an all-inclusive showcase of my new-found skills, knowledge and understanding of the bootcamp.
 This problem solves accessbility into resources within the pre-course work.
 
 ## Installation
